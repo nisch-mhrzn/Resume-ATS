@@ -9,7 +9,7 @@ import base64
 
 import google.generativeai as genai
 
-genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
+genai.configure(api_key=os.getenv('GOOGLE_API_KEY')) #api key from : https://aistudio.google.com/app/apiKey
 poppler_path =r'C:\poppler-24.08.0\Library\bin'
 def get_gemini_response(input,pdf_content,prompt):
     model= genai.GenerativeModel("gemini-1.5-flash")
