@@ -1,6 +1,6 @@
 # ATS Resume Expert
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12.5-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/nisch-mhrzn/Resume-ATS?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/nisch-mhrzn/Resume-ATS?style=flat-square)
